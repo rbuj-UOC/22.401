@@ -1,0 +1,21 @@
+[submodule "unit_1"]
+	path = prog_datasci_1
+	url = git@github.com:rbuj-UOC/22.401-unit_1.git
+[submodule "unit_2"]
+	path = prog_datasci_2
+	url = git@github.com:rbuj-UOC/22.401-unit_2.git
+[submodule "unit_3"]
+	path = prog_datasci_3
+	url = git@github.com:rbuj-UOC/22.401-unit_3.git
+[submodule "unit_4"]
+	path = prog_datasci_4
+	url = git@github.com:rbuj-UOC/22.401-unit_4.git
+[submodule "unit_5"]
+	path = prog_datasci_5
+	url = git@github.com:rbuj-UOC/22.401-unit_5.git
+[submodule "unit_7"]
+	path = prog_datasci_7
+	url = git@github.com:rbuj-UOC/22.401-unit_7.git
+[submodule "unit_8"]
+	path = prog_datasci_8
+	url = git@github.com:rbuj-UOC/22.401-unit_8.git
