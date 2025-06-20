@@ -34,3 +34,15 @@
 [submodule "activity_5"]
 	path = activity_5
 	url = https://github.com/rbuj-UOC/22.401-activity_5.git
+[submodule "activity_4_sol"]
+	path = activity_4_sol
+	url = https://github.com/rbuj-UOC/22.401-activity_4_sol.git
+[submodule "activity_3_sol"]
+	path = activity_3_sol
+	url = https://github.com/rbuj-UOC/22.401-activity_3_sol.git
+[submodule "activity_2_sol"]
+	path = activity_2_sol
+	url = https://github.com/rbuj-UOC/22.401-activity_2_sol.git
+[submodule "activity_1_sol"]
+	path = activity_1_sol
+	url = https://github.com/rbuj-UOC/22.401-activity_1_sol.git
