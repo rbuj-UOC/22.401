@@ -19,3 +19,18 @@
 [submodule "unit_8"]
 	path = prog_datasci_8
 	url = git@github.com:rbuj-UOC/22.401-unit_8.git
+[submodule "activity_1"]
+	path = activity_1
+	url = https://github.com/rbuj-UOC/22.401-activity_1.git
+[submodule "activity_2"]
+	path = activity_2
+	url = https://github.com/rbuj-UOC/22.401-activity_2.git
+[submodule "activity_3"]
+	path = activity_3
+	url = https://github.com/rbuj-UOC/22.401-activity_3.git
+[submodule "activity_4"]
+	path = activity_4
+	url = https://github.com/rbuj-UOC/22.401-activity_4.git
+[submodule "activity_5"]
+	path = activity_5
+	url = https://github.com/rbuj-UOC/22.401-activity_5.git
