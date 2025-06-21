@@ -46,3 +46,6 @@
 [submodule "activity_1_sol"]
 	path = activity_1_sol
 	url = https://github.com/rbuj-UOC/22.401-activity_1_sol.git
+[submodule "prog_datasci_6"]
+	path = prog_datasci_6
+	url = https://github.com/rbuj-UOC/22.401-unit_6.git
